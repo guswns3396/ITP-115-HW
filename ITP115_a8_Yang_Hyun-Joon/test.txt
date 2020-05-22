@@ -1,0 +1,7 @@
+EPA Highway MGP Calculator (2008)
+---------------------------------------
+Maximum Mileage (highway): 45
+	 HONDA CIVIC HYBRID
+---------------------------------------
+Minimum Mileage (highway): 15
+	 BENTLEY AZURE
